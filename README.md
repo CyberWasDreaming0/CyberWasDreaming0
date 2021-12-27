@@ -39,11 +39,11 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-## 🎫 My Readme stats:
+# <a href="https://imgbb.com/"><img src="https://i.ibb.co/cvRSvMW/912385470426660894.gif" alt="912385470426660894" border="0" height="30px"></a> Readme stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyberWasDreaming0&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/CyberWasDreaming0)
 
-# <a href="https://imgbb.com/"><img src="https://i.ibb.co/x3BkkRH/908346363639656488.gif" alt="908346363639656488" border="0" height="30px"></a> My Github Stats:
+# <a href="https://imgbb.com/"><img src="https://i.ibb.co/x3BkkRH/908346363639656488.gif" alt="908346363639656488" border="0" height="30px"></a> Github Stats:
 
   <br/>
   
