@@ -72,4 +72,10 @@
 <a href="https://github.com/CyberWasDreaming0?tab=followers"><img src="https://img.shields.io/github/followers/CyberWasDreaming0?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/CyberWasDreaming0/CyberWasDreaming0/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/CyberWasDreaming0/CyberWasDreaming0?color=lightgray&label=License&style=flat-square"></a>
 
+<p align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a>
+</p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1200&lines=Thank+You+for+Visiting!)](https://git.io/typing-svg)
 
