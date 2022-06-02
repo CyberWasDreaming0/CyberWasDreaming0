@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Cyber</h1>
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Cyber</h1>
 <h3 align="center">I'm a student and Learning Programming.</h3>
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a>
